@@ -1,0 +1,1 @@
+# All-server-emote-api
